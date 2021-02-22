@@ -5,9 +5,9 @@
 
 - PhD (Information Systems) | Machine Learning & Information Privacy @ [HEC-Lausanne](https://scholar.google.ch/citations?user=e3sxhY0AAAAJ&hl=en) - (Nov. 2015-Aug. 2019)
 
-- Project Intern @ [ETH Zurich](https://github.com/CIG-SDR/CIG)-(Jan. 2015-Aug. 2015)
+- Project Intern @ [ETH Zurich](https://github.com/CIG-SDR/CIG) - (Jan. 2015-Aug. 2015)
 
-- Embedded Design Engineer @ [Bolt](https://www.boltiot.com/)(Aug. 2011 -Aug. 2013)
+- Embedded Design Engineer @ [Bolt](https://www.boltiot.com/) - (Aug. 2011-Aug. 2013)
 
 
 
