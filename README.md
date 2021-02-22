@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kulkarni</h1>
 <h3 align="center">PhD (Information Systems) | Data Engineering - Machine Learning - Information Privacy</h3>
 
-- Software Engineer (Python, JS) | Backend Infrastructure, Time-Series Forecasting [GenLots](https://genlots.com/) - (Aug. 2019-Present)
+- Software Engineer (Python, JS) | Backend Infrastructure, Time-Series Forecasting @ [GenLots](https://genlots.com/) - (Aug. 2019-Present)
 
-- PhD (Information Systems) | Machine Learning & Information Privacy [HEC-Lausanne](https://scholar.google.ch/citations?user=e3sxhY0AAAAJ&hl=en) - (Nov. 2015-Aug. 2019)
+- PhD (Information Systems) | Machine Learning & Information Privacy @ [HEC-Lausanne](https://scholar.google.ch/citations?user=e3sxhY0AAAAJ&hl=en) - (Nov. 2015-Aug. 2019)
 
-- Project Intern [ETH Zurich](https://github.com/CIG-SDR/CIG)-(Jan. 2015-Aug. 2015)
+- Project Intern @ [ETH Zurich](https://github.com/CIG-SDR/CIG)-(Jan. 2015-Aug. 2015)
 
-- Embedded Design Engineer [Bolt](https://www.boltiot.com/)(Aug. 2011 -Aug. 2013)
+- Embedded Design Engineer @ [Bolt](https://www.boltiot.com/)(Aug. 2011 -Aug. 2013)
 
 
 
