@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kulkarni</h1>
 <h3 align="center">PhD (Information Systems) | Data Engineering - Machine Learning - Information Privacy</h3>
 
-- Software Engineer (Python, JS) | Backend Infrastructure, Time-Series Forecasting @ [GenLots](https://genlots.com/) - (Aug. 2019-Present)
+- Senior Data Engineer @[SOPHiA GENETICS](https://www.sophiagenetics.com) - (April. 2021-Present)
+
+- Software Engineer (Python, JS) | Backend Infrastructure, Time-Series Forecasting @ [GenLots](https://genlots.com/) - (Aug. 2019-March 2021)
 
 - PhD (Information Systems) | Machine Learning & Information Privacy @ [HEC-Lausanne](https://scholar.google.ch/citations?user=e3sxhY0AAAAJ&hl=en) - (Nov. 2015-Aug. 2019)
 
