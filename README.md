@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kulkarni</h1>
 <h3 align="center">PhD (Information Systems) | Data Engineering - Machine Learning - Information Privacy</h3>
 
-- Senior Data Engineer @[SOPHiA GENETICS](https://www.sophiagenetics.com) - (April. 2021-Present)
+- Data Engineering Lead  @[Debiopharm](https://www.debiopharm.com) - (July. 2022-Present)
+
+- Senior Data Engineer @[SOPHiA GENETICS](https://www.sophiagenetics.com) - (April. 2021-June 2022)
 
 - Software Engineer @[GenLots](https://genlots.com/)  - (Aug. 2019-March 2021)
 
